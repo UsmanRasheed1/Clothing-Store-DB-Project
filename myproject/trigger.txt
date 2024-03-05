@@ -1,0 +1,36 @@
+DELIMITER $$
+CREATE TRIGGER `calculate_total_price` BEFORE INSERT ON `my_cart` FOR EACH ROW BEGIN
+    SET NEW.total_price = NEW.price * NEW.quantity;
+END
+$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER `check_clothes_size` BEFORE INSERT ON `my_cart` FOR EACH ROW BEGIN
+    IF NOT (NEW.clothesize IN ('XS', 'S', 'M', 'L', 'XL')) THEN
+        SIGNAL SQLSTATE '45000' 
+        SET MESSAGE_TEXT = 'Invalid clothes size. Please use XS, S, M, L, or XL.';
+    END IF;
+END
+$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER `set_deliverydate_trigger` BEFORE INSERT ON `receipts` FOR EACH ROW BEGIN
+    SET NEW.DeliveryDate = DATE_ADD(NOW(), INTERVAL 2 DAY);
+END
+$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER `check_category` BEFORE INSERT ON `clothes` FOR EACH ROW BEGIN
+    IF NOT (NEW.Category IN ('Men', 'Women', 'kids','winter')) THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Invalid category. Please use Men, Women, kids or winter';
+    END IF;
+END
+$$
+DELIMITER ;
+
+
+

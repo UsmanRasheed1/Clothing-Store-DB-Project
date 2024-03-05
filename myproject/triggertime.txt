@@ -1,0 +1,13 @@
+DELIMITER //
+
+CREATE TRIGGER set_deliverydate_trigger
+AFTER INSERT ON receipts
+FOR EACH ROW
+BEGIN
+    UPDATE receipts
+    SET DeliveryDate = DATE_ADD(NOW(), INTERVAL 2 DAY)
+    WHERE email = NEW.email; 
+END;
+//
+DELIMITER ;
+

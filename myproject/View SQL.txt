@@ -1,0 +1,5 @@
+create view Customer_receipts as 
+select concat(u.first_name, ' ',u.last_name) as "Full Name", r.receipttext, r.totalprice from user u, receipts r where u.email = r.email; 
+
+create View `User-View` as 
+select u.email, concat(u.first_name, ' ',u.last_name) as "Full Name", c.address,c.phonenum from user u, checkout_details c where u.email = c.email;
