@@ -1,0 +1,62 @@
+id=13) insert into clothes (clothes_name, Category, Price, picture) value ('CONTRAST COLLAR COTTON JACKET', 'winter', 20000, 'ProjectImages/13black.webp');
+
+id=14) insert into clothes (clothes_name, Category, Price, picture) value ('DENIM VARSITY JACKET', 'winter', 15000, 'ProjectImages/14blue.webp');
+
+id=15) insert into clothes (clothes_name, Category, Price, picture) value ('QUILTED GILET WITH CONTRAST DETAILS', 'winter', 16000,'ProjectImages/15brown.webp');
+
+id=16) insert into clothes (clothes_name, Category, Price, picture) value ('FAUX SUEDE JACKET WITH SHERPA COLLAR', 'winter', 12000,'ProjectImages/16black.webp');
+
+id=17) insert into clothes (clothes_name, Category, Price, picture) value ('FAUX SUEDE VARSITY BOMBER JACKET', 'winter', 18000,'ProjectImages/17blue.webp');
+
+id=18) insert into clothes (clothes_name, Category, Price, picture) value ('FAUX LEATHER OVERSIZED JACKET', 'winter', 22000,'ProjectImages/18black.webp');
+
+id=19) insert into clothes (clothes_name, Category, Price, picture) value ('FAUX SUEDE JACKET WITH ZIP', 'winter', 21000,'ProjectImages/19green.webp');
+
+id=20) insert into clothes (clothes_name, Category, Price, picture) value ('FAUX SUEDE VARSITY JACKET', 'winter', 23000,'ProjectImages/20black.webp');
+
+
+id=21) insert into clothes (clothes_name, Category, Price, picture) value ('FAUX SUEDE BIKER JACKET', 'winter', 21000,'ProjectImages/21blue.webp');
+
+id=22) insert into clothes (clothes_name, Category, Price, picture) value ('HAVANNA TROPIC PRINT SHIRT', 'men', 2200,'ProjectImages/22orange.webp');
+
+id=23) insert into clothes (clothes_name, Category, Price, picture) value ('STRIPED TAB-COLLAR SHIRT', 'men', 1500,'ProjectImages/23pink.webp');
+
+id=24) insert into clothes (clothes_name, Category, Price, picture) value ('COTTON-LINEN SHIRT', 'men', 1200,'ProjectImages/24white.webp');
+
+id=25) insert into clothes (clothes_name, Category, Price, picture) value ('GRADIENT SLOGAN GRAPHIC T-SHIRT', 'men', 1600,'ProjectImages/25white.webp');
+
+id=26) insert into clothes (clothes_name, Category, Price, picture) value ('STRIPED COTTON SHIRT', 'men', 1500,'ProjectImages/26blue.webp');
+
+id=27) insert into clothes (clothes_name, Category, Price, picture) value ('SLIM FIT TROUSERS', 'men', 2000,'ProjectImages/27green.webp');
+
+id=28) insert into clothes (clothes_name, Category, Price, picture) value ('COLOR-BLOCK SHORTS WITH PRINT', 'men', 1800,'ProjectImages/28blue.webp');
+
+id=29) insert into clothes (clothes_name, Category, Price, picture) value ('COTTON CHINOS', 'men', 2500,'ProjectImages/29black.webp');
+
+id=30) insert into clothes (clothes_name, Category, Price, picture) value ('TENNIS GRAPHIC HOODIE', 'kids', 4000,'ProjectImages/30black.webp');
+
+id=31) insert into clothes (clothes_name, Category, Price, picture) value ('SKATER FIT JEANS', 'kids', 3500,'ProjectImages/31green.webp');
+
+id=32) insert into clothes (clothes_name, Category, Price, picture) value ('SMILE HOODED ZIPPER SWEATSHIRT', 'kids', 4500,'ProjectImages/32purple.webp');
+
+id=33) insert into clothes (clothes_name, Category, Price, picture) value ('SWEATSHIRT WITH CHECKERED PRINT DETAIL', 'kids', 4500,'ProjectImages/33brown.webp');
+
+id=34) insert into clothes (clothes_name, Category, Price, picture) value ('CHARACTER PRINTED HOODIE', 'kids', 3500,'ProjectImages/34gray.webp');
+
+id=35) insert into clothes (clothes_name, Category, Price, picture) value ('CHECKERED SHIRT WITH PATCH POCKET', 'kids', 3000,'ProjectImages/35black.webp');
+
+id=36) insert into clothes (clothes_name, Category, Price, picture) value ('PLAIN SWEATSHIRT WITH ZIPPER OPENING', 'kids', 5000,'ProjectImages/36red.webp');
+
+id=37) insert into clothes (clothes_name, Category, Price, picture) value ('STRAIGHT FIT JEANS', 'kids', 4000,'ProjectImages/37blue.webp');
+
+insert into clothes (clothes_name, Category, Price, picture) value ('MOON NECK SWEATER', 'winter', 5000,'ProjectImages/38orange.webp');
+
+insert into clothes (clothes_name, Category, Price, picture) value ('EMPATHY SWEATSHIRT', 'winter', 5000,'ProjectImages/39purple.webp');
+
+insert into clothes (clothes_name, Category, Price, picture) value ('AARUSHI GREEN MUSLIN KURTA SET', 'women', 4500,'ProjectImages/40green.jpg');
+
+insert into clothes (clothes_name, Category, Price, picture) value ('SRILEKHA SLUB STRAIGHT KURTA PALAZZO SET', 'women', 4500,'ProjectImages/41pink.jpg');
+
+
+
+

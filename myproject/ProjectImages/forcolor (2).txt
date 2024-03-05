@@ -1,0 +1,90 @@
+i.d=13)insert into color (Clothesid, Color, picture) values (13, 'brown', 'ProjectImages/13brown.webp'),
+ (13, 'black', 'ProjectImages/13black.webp');
+
+i.d=14)insert into color (Clothesid, Color, picture) values (14, 'blue', 'ProjectImages/14blue.webp');
+
+i.d=15)insert into color (Clothesid, Color, picture) values (15, 'brown', 'ProjectImages/15brown.webp'),
+ (15, 'blue', 'ProjectImages/15blue.webp');
+
+i.d=16)insert into color (Clothesid, Color, picture) values (16, 'black', 'ProjectImages/16black.webp'),(16, 'brown', 'ProjectImages/16brown.webp');
+
+i.d=17)insert into color (Clothesid, Color, picture) values (17, 'blue', 'ProjectImages/17blue.webp'),
+ (17, 'brown', 'ProjectImages/17brown.webp');
+
+i.d=18)insert into color (Clothesid, Color, picture) values (18, 'black', 'ProjectImages/18black.webp'),(18, 'blue', 'ProjectImages/18blue.webp');
+ 
+i.d=19)insert into color (Clothesid, Color, picture) values (19, 'green', 'ProjectImages/19green.webp'),
+ (19, 'black', 'ProjectImages/19black.webp');
+
+i.d=20)insert into color (Clothesid, Color, picture) values (20, 'black', 'ProjectImages/20black.webp');
+
+i.d=21)insert into colors (Clothesid, Color, picture) values (21, 'brown', 'ProjectImages/21brown.jpg'),
+ (21, 'blue', 'ProjectImages/21blue.webp');
+
+i.d=22)insert into colors (Clothesid, Color, picture) values (22, 'orange', 'ProjectImages/22orange.webp');
+
+i.d=23)insert into colors (Clothesid, Color, picture) values (23, 'pink', 'ProjectImages/23pink.webp'),
+ (23, 'seagreen', 'ProjectImages/23seagreen.webp');
+
+i.d=24)insert into colors (Clothesid, Color, picture) values (24, 'white', 'ProjectImages/24white.webp');
+
+i.d=25)insert into colors (Clothesid, Color, picture) values (25, 'white', 'ProjectImages/25white.webp'),
+ (25, 'gray', 'ProjectImages/25gray.webp'),(25, 'black', 'ProjectImages/25black.webp');
+
+i.d=26)insert into colors (Clothesid, Color, picture) values (26, 'blue', 'ProjectImages/26blue.webp'),
+ (26, 'white', 'ProjectImages/26white.webp');
+
+i.d=27)insert into colors (Clothesid, Color, picture) values (27, 'green', 'ProjectImages/27green.webp'),
+ (27, 'black', 'ProjectImages/27black.webp');
+
+i.d=28)insert into colors (Clothesid, Color, picture) values (28, 'blue', 'ProjectImages/28blue.webp'),
+ (28, 'brown', 'ProjectImages/28brown.webp');
+
+i.d=29)insert into colors (Clothesid, Color, picture) values (29, 'black', 'ProjectImages/29black.webp'),
+ (29, 'brown', 'ProjectImages/29brown.webp');
+
+i.d=30)insert into colors (Clothesid, Color, picture) values (30, 'brown', 'ProjectImages/30brown.webp'),
+ (30, 'black', 'ProjectImages/30black.webp');
+
+i.d=31)insert into colors (Clothesid, Color, picture) values (31, 'green', 'ProjectImages/31green.webp');
+
+i.d=32)insert into colors (Clothesid, Color, picture) values (32, 'purple', 'ProjectImages/32purple.webp'),
+ (32, 'brown', 'ProjectImages/32brown.webp');
+
+i.d=33)insert into colors (Clothesid, Color, picture) values (33, 'brown', 'ProjectImages/33brown.webp'),
+ (33, 'black', 'ProjectImages/33black.webp');
+
+i.d=34)insert into colors (Clothesid, Color, picture) values (34, 'brown', 'ProjectImages/34brown.webp'),
+ (34, 'gray', 'ProjectImages/34gray.webp');
+
+i.d=35)insert into colors (Clothesid, Color, picture) values (35, 'black', 'ProjectImages/35black.webp'),
+ (35, 'green', 'ProjectImages/35green.webp');
+
+i.d=36)insert into colors (Clothesid, Color, picture) values (36, 'red', 'ProjectImages/36red.webp'),
+ (36, 'gray', 'ProjectImages/36gray.webp');
+
+i.d=37)insert into colors (Clothesid, Color, picture) values (37, 'blue', 'ProjectImages/37blue.webp');
+
+insert into colors (Clothesid, Color, picture) values (38, 'orange', 'ProjectImages/38orange.webp'),
+(38, 'blue', 'ProjectImages/38blue.webp'),
+(39, 'black', 'ProjectImages/39black.webp'),
+(39, 'purple', 'ProjectImages/39purple.webp'),
+(40, 'green', 'ProjectImages/40green.webp'),
+(42, 'pink', 'ProjectImages/41pink.webp'),
+(4, 'orange', 'ProjectImages/4orange.jpg'),
+(4, 'pink', 'ProjectImages/4pink.webp'),
+(5, 'grey', 'ProjectImages/5grey.webp'),
+(5, 'pink', 'ProjectImages/5pink.jpg'),
+(5, 'white', 'ProjectImages/5white.webp'),
+(6, 'yellow', 'ProjectImages/6yellow.jpg'),
+(6, 'blue', 'ProjectImages/6blue.jpg'),
+(7, 'blue', 'ProjectImages/7blue.jpg'),
+(7, 'black', 'ProjectImages/7black.webp'),
+(8, 'yellow', 'ProjectImages/8yellow.jpg'),
+(8, 'red', 'ProjectImages/8red.jpg'),
+(9, 'blue', 'ProjectImages/9blue.webp'),
+(9, 'brown', 'ProjectImages/9brown.webp'),
+(10, 'brown', 'ProjectImages/10brown.jpg'),
+(10, 'blue', 'ProjectImages/10blue.jpg');
+
+
