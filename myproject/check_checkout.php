@@ -32,7 +32,7 @@ echo "Error executing statement: " . mysqli_stmt_error($stmt);
 // Close the prepared statement
 mysqli_stmt_close($stmt);
 } else {
-    $queryupdate = "update checkout_details set phonenum='$phone',address='$address', comments = '$comments'";
+    $queryupdate = "update checkout_details set phonenum='$phone',address='$address', comments = '$comments' where email = '$email'";
     $stmt = mysqli_prepare($conn, $queryupdate);
     mysqli_stmt_execute($stmt);
     // Redirect to my_cart.php with email as a parameter
